@@ -1,0 +1,15 @@
+C:\Users\ADAM K\source\repos\ReadingFromFile\ReadingFromFile\bin\Debug\net6.0\ReadingFromFile.exe
+C:\Users\ADAM K\source\repos\ReadingFromFile\ReadingFromFile\bin\Debug\net6.0\ReadingFromFile.deps.json
+C:\Users\ADAM K\source\repos\ReadingFromFile\ReadingFromFile\bin\Debug\net6.0\ReadingFromFile.runtimeconfig.json
+C:\Users\ADAM K\source\repos\ReadingFromFile\ReadingFromFile\bin\Debug\net6.0\ReadingFromFile.dll
+C:\Users\ADAM K\source\repos\ReadingFromFile\ReadingFromFile\bin\Debug\net6.0\ReadingFromFile.pdb
+C:\Users\ADAM K\source\repos\ReadingFromFile\ReadingFromFile\obj\Debug\net6.0\ReadingFromFile.csproj.AssemblyReference.cache
+C:\Users\ADAM K\source\repos\ReadingFromFile\ReadingFromFile\obj\Debug\net6.0\ReadingFromFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADAM K\source\repos\ReadingFromFile\ReadingFromFile\obj\Debug\net6.0\ReadingFromFile.AssemblyInfoInputs.cache
+C:\Users\ADAM K\source\repos\ReadingFromFile\ReadingFromFile\obj\Debug\net6.0\ReadingFromFile.AssemblyInfo.cs
+C:\Users\ADAM K\source\repos\ReadingFromFile\ReadingFromFile\obj\Debug\net6.0\ReadingFromFile.csproj.CoreCompileInputs.cache
+C:\Users\ADAM K\source\repos\ReadingFromFile\ReadingFromFile\obj\Debug\net6.0\ReadingFromFile.dll
+C:\Users\ADAM K\source\repos\ReadingFromFile\ReadingFromFile\obj\Debug\net6.0\refint\ReadingFromFile.dll
+C:\Users\ADAM K\source\repos\ReadingFromFile\ReadingFromFile\obj\Debug\net6.0\ReadingFromFile.pdb
+C:\Users\ADAM K\source\repos\ReadingFromFile\ReadingFromFile\obj\Debug\net6.0\ReadingFromFile.genruntimeconfig.cache
+C:\Users\ADAM K\source\repos\ReadingFromFile\ReadingFromFile\obj\Debug\net6.0\ref\ReadingFromFile.dll
